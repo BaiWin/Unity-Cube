@@ -1,0 +1,34 @@
+{
+    "name": "UIInput",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "b4097681-c4c4-467b-b550-d64584895fa4",
+            "actions": [
+                {
+                    "name": "Tab",
+                    "type": "Button",
+                    "id": "2e48c192-4d2f-4ff5-9afb-3acbb249cbe5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f26fa9bb-bcaf-4b9d-afda-74bb57578f81",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

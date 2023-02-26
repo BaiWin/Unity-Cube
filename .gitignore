@@ -66,3 +66,4 @@ crashlytics-build.properties
 *.meta
 CubeWorld/Assets/Book-Page Curl/Example/sprites/P4_Front.png.meta
 CubeWorld/Assets/Book-Page Curl/Example/sprites/P4_Front.png.meta
+*.mat
